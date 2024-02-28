@@ -271,3 +271,13 @@ Countdown Timer
   letter-spacing: var(--spacing);
 
 }
+
+.giveaway {
+  display: none;
+}
+
+.deadline-format {
+  height: 6rem;
+  width: 6rem;
+  border-radius: 50%;
+}
